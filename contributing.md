@@ -4,6 +4,8 @@ Our goal is to have a list of things that anybody would have to learn if they we
 
 ## Contributing
 
+This is how ya do it
+
 Your contributions to this repo are always welcome!
 Bear in mind, that this repo is *highly opinionated*, *unbiased* and *curated*.
 Your opinion on value of any resource may not match the opinion of curator.
